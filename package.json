@@ -1,6 +1,8 @@
 {
   "name": "blog-editor",
   "version": "0.1.0",
+  "description": "DraftJS - Rich Text Editor Framework for REACT ",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "draft-js": "file:draft-js",
